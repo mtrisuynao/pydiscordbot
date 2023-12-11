@@ -607,4 +607,4 @@ async def help(ctx, commandSent=None):
         await ctx.message.delete()
         await ctx.author.send(embed=embed)
 
-client.run("ODcyMzEwNDM0NTgwMDIxMjk5.GddfDA.WIIQDoLH1MF9ZC7JItESjh8jWtutFSXnCM2RAo")
+client.run("your token")
